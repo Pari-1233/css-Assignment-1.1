@@ -1,0 +1,57 @@
+body
+    {
+    background-color:#D8DA3D ;
+    color:#80007E;
+    margin: 0px;
+    }
+    /*content at right side*/
+.para
+    {
+        width: 82%;
+        float:right;
+        margin-top: 10px;;
+    }
+h1
+    {
+    color:purple;
+    font-family: Arial;
+    } 
+    /*dotted line*/
+hr
+    {
+        border: 1px dotted purple;
+    }
+
+    /*para in div*/
+div p
+    {
+        font-weight: 50px;
+    }
+
+    /*italic words*/
+.date
+    {
+    font-family: georgia;
+    }
+
+    /*left side content as list*/
+.list
+{   
+    margin-top: 35px;
+    list-style: none;
+    height: 100%;
+    width: 14%;
+}
+/*list item*/
+.item
+    {
+    background-color: white;
+    height: 20px;
+    width: 150px;
+    border-right: 15px solid black;
+    bottom: 180px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: georgia;
+    }
+
